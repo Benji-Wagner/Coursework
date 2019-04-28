@@ -18,5 +18,5 @@ This course consisted of 3 Modules:
 The Google Colab notebook I used for Image Classification is located in this directory. 
 For the sequencing data, I created a package with roxygen2 that demonstrates how reads can be mapped
 to reference barcodes using a probabilistic error model. This is in its own repository, SequenceMapper.
-The EHR project uses confidential patient information, so I decided not to upload it. Feel free to contact me
-if you are curious to hear more about any of these 3 modules and/or their respective projects.
+The EHR project uses confidential patient information, so I uploaded the notebook without showing what the data looks like.
+Feel free to contact me if you are curious to hear more about any of these 3 modules and/or their respective projects.
